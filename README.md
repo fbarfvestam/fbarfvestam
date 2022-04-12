@@ -5,7 +5,9 @@
 
 My school projects so far:
 
-In progress: http://moviemeuno.herokuapp.com/
+Deployed versions: 
+In progress: https://tourmaline-pasca-0c1feb.netlify.app/
+http://moviemeuno.herokuapp.com/
 
 https://github.com/chas-academy/imdb-clone-u05-grupp1 - Our mission is to create a similar dynamic website as the popular movie site IMDB. We will use Laravel along with HTML and CSS for this assignment.
 
