@@ -6,7 +6,9 @@
 My school projects so far:
 
 Deployed versions: 
-In progress: https://tourmaline-pasca-0c1feb.netlify.app/
+
+https://tourmaline-pasca-0c1feb.netlify.app/ - Recipe app built with Angular, Laravel and Spoonacular API. Backend made by me with Laravel and Frontend made by me with Angular.
+
 http://moviemeuno.herokuapp.com/
 
 https://github.com/chas-academy/imdb-clone-u05-grupp1 - Our mission is to create a similar dynamic website as the popular movie site IMDB. We will use Laravel along with HTML and CSS for this assignment.
