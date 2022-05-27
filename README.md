@@ -2,6 +2,7 @@
 - 👀 I’m interested in full stack web development and I'm currently a student at Chas Academy in Stockholm, Sweden to become a full-stack web developer.
 - 🌱 I’m currently learning JavaScript Angular / React / Node
 - This coming spring we are focusing on backend and frontend development as well as popular JS frameworks/ libraries.
+- PS. All my projects are not yet under "repositories" considering we have a school repository.
 
 Deployed versions: 
 
